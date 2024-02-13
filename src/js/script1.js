@@ -1,7 +1,8 @@
-const location1 = 'New york,' + 'NY';
-const location2 = 'New York,' + 'NY';
-const location3 = 'New York,' + 'NY';
+let nameUser = "ejemplo:'juanPedro'";
+let nameAdmin = 'ejemplo:"juanPedro"';
+console.log(`francesa:${nameUser} más texto ${nameAdmin}`);
+console.log('francesa: ', nameAdmin);
+console.log('francesa:' + nameUser);
 
-console.log(location1);
-console.log(location2);
-console.log(location3);
+let name = 'nombre';
+name;
