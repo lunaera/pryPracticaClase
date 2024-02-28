@@ -1,8 +1,7 @@
-let nameUser = "ejemplo:'juanPedro'";
-let nameAdmin = 'ejemplo:"juanPedro"';
-console.log(`francesa:${nameUser} más texto ${nameAdmin}`);
-console.log('francesa: ', nameAdmin);
-console.log('francesa:' + nameUser);
+let fruitsName = ['piñaple', 'strawberry', 'apple', 'banana', 'mangoes', 'lemon'];
 
-let name = 'nombre';
-name;
+console.log(fruitsName.sort().reverse());
+console.log(fruitsName.sort());
+
+let numbers = [1, 4, 67, 8, 22];
+console.log(numbers.sort((a, b) => a - b));
