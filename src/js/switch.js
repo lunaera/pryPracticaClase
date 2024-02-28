@@ -18,8 +18,8 @@ switch (nameFruit) {
     default: console.log("is not fruit"); break;
 }
 
-
-const foo = 5;
+//validacion de switch
+const foo = 50;
 switch (foo) {
     case 2: console.log(2); break;
     default: console.log("default");
