@@ -5,9 +5,12 @@ const dayOfWeek = [
     "Domingo",
     "Lunes",
     "Martes",
-    "Miercoles"
+    "Miercoles",
+    "jueves",
+    "viernes",
+    "Sabado"
 ]
 
-if (dayOfWeek[currentDay] === "Martes") {
+if (dayOfWeek[currentDay] === "Sabado") {
     console.log("Es martes");
 }
