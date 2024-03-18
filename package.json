@@ -1,20 +1,21 @@
 {
-  "name": "prypractica1",
-  "version": "1.0.0",
-  "description": "\"# pryPractica2\"",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Erahin",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/erahin/pryPractica2.git"
-  },
-  "bugs": {
-    "url": "https://github.com/erahin/pryPractica2/issues"
-  },
-  "homepage": "https://github.com/erahin/pryPractica2#readme"
+    "name": "prypractica1",
+    "version": "1.0.0",
+    "description": "\"# pryPractica2\"",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Erahin",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/erahin/pryPractica2.git"
+    },
+    "bugs": {
+        "url": "https://github.com/erahin/pryPractica2/issues"
+    },
+    "homepage": "https://github.com/erahin/pryPractica2#readme"
 }
